@@ -9,4 +9,8 @@
     <color name="blueish">#17A2C0</color>
     <color name="Red">#EB0D0D</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#4885ed</color>
 </resources>
