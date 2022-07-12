@@ -3,8 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/3rd Year/LAB/CSE 3120(Software)/CardiacRecorder_007_009/app/src/main/res/layout/activity_main.xml" value="0.19375" />
-        <entry key="..\:/3rd Year/LAB/CSE 3120(Software)/CardiacRecorder_007_009/app/src/main/res/layout/item_task.xml" value="0.19375" />
         <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/drawable/btn_background.xml" value="0.17" />
         <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.17" />
         <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/layout/activity_data.xml" value="0.20416666666666666" />
@@ -22,7 +20,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
